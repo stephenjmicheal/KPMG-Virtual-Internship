@@ -7,4 +7,5 @@ KPMGVI.ipynb file explores the dataset to handle errors and missing files, this 
 data quality.
 
 The KPMG Data Exploration.ipynb file takes it a step further, exploring the distribution of the data to uncover confounding factors that influences purchases including, 
-Age, Gender, state, Wealth segment, and the study of other features corelating to the purchase of automobile parts. 
+Age, Gender, state, Wealth segment, and the study of other features corelating to the purchase of automobile parts. As instructed by the KPMG analytics team, an external dataset from the Australian Bureau of Statistics was introduced to validate the findings on the distribution of this features. A customer segmentation model was created through this features to segment hiigh prospects and regular customers, this model will aid the client to channel advertising expenses to the high prospects customers in the new customer dataset.
+
